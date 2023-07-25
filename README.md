@@ -3,3 +3,5 @@
 <img width="387" alt="image" src="https://github.com/slytechiefrommagentashore/online-note-taking-app/assets/97241435/e9efb2fc-450f-45c5-bd81-45d2fc771384">
 <img width="947" alt="image" src="https://github.com/slytechiefrommagentashore/online-note-taking-app/assets/97241435/1858b8fd-e32f-415c-82ab-fadad1066e5d">
 online notes app usind reactjd,mongo db, express js 
+Credits
+The project was developed by Satvika as part of Datbase Managemnet course. The design inspiration and some code snippets may have been referenced from various online resources, but the implementation is original.
