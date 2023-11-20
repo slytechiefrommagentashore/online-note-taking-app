@@ -5,4 +5,4 @@
 Technologies used 
 react js,express js,mongo db
 #Credits
-The project was developed by Satvika as part of Datbase Managemnet course. The design inspiration and some code snippets may have been referenced from various online resources, but the implementation is original.
+The project was developed by Satvika as part of Database Managemnet course. The design inspiration and some code snippets may have been referenced from various online resources, but the implementation is original.
